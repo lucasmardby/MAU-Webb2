@@ -1,0 +1,13 @@
+td {
+  text-align: right;
+}
+caption {
+  caption-side: bottom;
+}
+col#x {
+  width: 50px;
+}
+col.data {
+  width: 100px;
+  background-color: #ddd;
+}
