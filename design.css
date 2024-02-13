@@ -6,17 +6,25 @@ header {
   background-color: #ddd;
   text-align: center;
 }
+table {
+  empty-cells: show;
+}
 img {
   width: 250px;
   height: 250px;
   float: left;
 }
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 th {
   width: 250px;
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 td {
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 col.data {
   width: 250px;
