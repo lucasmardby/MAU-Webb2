@@ -1,13 +1,18 @@
 header {
   display: block;
-  width: 1766px;
+  box-sizing: border-box;
+  width: 1771px;
   padding: 5px;
-  margin-left: 2px;
+  margin-left: 1px;
   background-color: #ddd;
   text-align: center;
 }
 table {
   empty-cells: show;
+}
+caption {
+  caption-side: bottom;
+  text-align: right;
 }
 img {
   width: 250px;
