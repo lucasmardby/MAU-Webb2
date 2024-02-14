@@ -30,8 +30,49 @@ th {
 td {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
 }
 col.data {
   width: 250px;
   background-color: #ddd;
+}
+.rowSpitz {
+  background-color: #f3dd6d;
+  color: #52413a;
+}
+.rowYoasobi {
+  background-color: #fef367;
+  color: #000000;
+}
+.rowBackNumber {
+  background-color: #f2d520;
+  color: #fefdec;
+}
+.rowJames {
+  background-color: #5b7b48;
+  color: #c8c3c7;
+}
+.rowMilet {
+  background-color: #1c5e0c;
+  color: #cac8ba;
+}
+.rowYorushika {
+  background-color: #bfd1d3;
+  color: #7b3d2e;
+}
+.rowCharlie {
+  background-color: #dcdcda;
+  color: #222220;
+}
+.rowRyoku {
+  background-color: #ebe7d8;
+  color: #bc3829;
+}
+.rowMissLi {
+  background-color: #d93d40;
+  color: #100605;
+}
+.rowViktor {
+  background-color: #ce2e2d;
+  color: #f9efe3;
 }
